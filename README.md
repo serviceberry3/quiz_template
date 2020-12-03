@@ -1,0 +1,1 @@
+When the user answers incorrectly, the question repeats. When they answer correctly, they get the next question. Once the last question is answered, you can code some end behavior to happen. You can easily customize the number of questions in the quiz.

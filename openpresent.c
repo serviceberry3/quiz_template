@@ -22,11 +22,14 @@ int main (void) {
 
 
     char* ques[NUM_QUES] = {
+        //AN ARRAY OF STRINGS TO HOLD THE QUESTIONS
     };
 
     char* ans[NUM_QUES] = {
+        //AN ARRAY OF STRINGS TO HOLD THE RESPECTIVE ANSWERS
     };
 
+    //messages to encourage the user when they get three questions wrong in a row
     char* snark[5] = {"Have I stumped you yet?",
     "Awwwww. Not quite, I'm afraid!",
     "SOOOO CLOSEE, try again!",
